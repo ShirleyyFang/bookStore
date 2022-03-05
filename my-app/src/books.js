@@ -57,7 +57,7 @@ export const books = [
         id:10,
         name:'约翰·克利斯朵夫',
         author:'罗曼·罗兰',
-        imgURL:"https://img.pdf100.net/front_cover/5380561486025404092172.jpg"
+        imgURL:"https://i.ytimg.com/vi/XMLUKGopqJU/hqdefault.jpg"
     },
     {
         id:11,
