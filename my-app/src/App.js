@@ -50,6 +50,7 @@ class App extends Component {
               filteredBooks.map((book, i) => {
                 return (
                   <Col span = {6}>
+                  <a style={{paddingTop:20}} href={book.textURL}>
                   <Card
                     hoverable
                     style={{ width: 300 }}
@@ -58,6 +59,7 @@ class App extends Component {
                   >
                     <Meta title={book.name} description={book.author} />
                   </Card>
+                  </a>
                   </Col>
                 );
               })}

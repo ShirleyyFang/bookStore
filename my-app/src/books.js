@@ -16,7 +16,8 @@ export const books = [
         id:3,
         name:'老妓抄',
         author:'冈本加乃子',
-        imgURL:'https://images-cn.ssl-images-amazon.cn/images/I/41XRZwLhOiL.jpg'
+        imgURL:'https://images-cn.ssl-images-amazon.cn/images/I/41XRZwLhOiL.jpg',
+        textURL:"https://zhuanlan.zhihu.com/p/535822361"
     },
     {
         id:4,
@@ -64,7 +65,8 @@ export const books = [
         id:11,
         name:'李诞脱口秀工作手册',
         author:'李诞',
-        imgURL:"https://images-na.ssl-images-amazon.com/images/I/61nHpQ7pKkL.jpg"
+        imgURL:"https://images-na.ssl-images-amazon.com/images/I/61nHpQ7pKkL.jpg",
+        textURL:"https://zhuanlan.zhihu.com/p/497789327"
     },
     {
         id:12,
@@ -94,7 +96,8 @@ export const books = [
         id:16,
         name:'斯通纳',
         author:'约翰·威廉斯',
-        imgURL:"http://img1.gtimg.com/cul/pics/hv1/218/26/1990/129406598.jpg"     
+        imgURL:"http://img1.gtimg.com/cul/pics/hv1/218/26/1990/129406598.jpg",
+        textURL:"https://www.zhihu.com/column/c_1480532322252877824"     
     },
     {
         id:17,
