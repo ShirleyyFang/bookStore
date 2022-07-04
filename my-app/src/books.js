@@ -43,7 +43,8 @@ export const books = [
         id:6,
         name:'梁永安：阅读、游历和爱情',
         author:'梁永安',
-        imgURL:'https://ebookcn.com/storage/upload/files/000/31/95/27_cover_m.jpg'
+        imgURL:'https://ebookcn.com/storage/upload/files/000/31/95/27_cover_m.jpg',
+        textURL:'https://zhuanlan.zhihu.com/p/537344774?'
     },
     {
         id:7,
