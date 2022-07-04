@@ -1,6 +1,14 @@
 export const books = [
     {
         id:1,
+        name:'不能承受的生命之轻',
+        author:'米兰·昆德拉',
+        imgURL:'https://covers.zlibcdn2.com/covers299/books/e0/6d/70/e06d70e3061bda2aa1d299632e502db1.jpg',
+        textURL:'https://zhuanlan.zhihu.com/p/537320262'
+    }
+    ,
+    {
+        id:1,
         name:'猫眼',
         author:'玛格丽特·阿特伍德',
         imgURL:'https://images-cn.ssl-images-amazon.cn/images/I/41U31VvftBL.jpg',
