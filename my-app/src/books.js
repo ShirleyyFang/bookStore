@@ -57,7 +57,7 @@ export const books = [
         id:10,
         name:'乐园之丘',
         author:'米尼克·希珀',
-        imgURL:'https://images-cn.ssl-images-amazon.cn/images/I/41djMFzu-oL._SX342_SY445_QL70_ML2_.jpg
+        imgURL:'https://images-cn.ssl-images-amazon.cn/images/I/41djMFzu-oL._SX342_SY445_QL70_ML2_.jpg'
     },
     {
         id:11,
